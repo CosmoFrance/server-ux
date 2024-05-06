@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[announcement](announcement/) | 15.0.2.1.1 |  | Notify internal users about relevant organization stuff
+[announcement](announcement/) | 15.0.2.2.0 |  | Notify internal users about relevant organization stuff
 [barcode_action](barcode_action/) | 15.0.1.0.0 |  | Allows to use barcodes as a launcher
 [base_archive_date](base_archive_date/) | 15.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) | Adds an archive timestamp and user doing the archiving to all models.
 [base_cancel_confirm](base_cancel_confirm/) | 15.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Base Cancel Confirm
@@ -38,12 +38,13 @@ addon | version | maintainers | summary
 [base_search_custom_field_filter](base_search_custom_field_filter/) | 15.0.1.0.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Add custom filters for fields via UI
 [base_substate](base_substate/) | 15.0.1.0.0 |  | Base Sub State
 [base_technical_features](base_technical_features/) | 15.0.1.1.0 |  | Access to technical features without activating debug mode
-[base_tier_validation](base_tier_validation/) | 15.0.1.3.7 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Implement a validation process based on tiers.
+[base_tier_validation](base_tier_validation/) | 15.0.1.4.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Implement a validation process based on tiers.
 [base_tier_validation_formula](base_tier_validation_formula/) | 15.0.1.0.1 |  | Formulas for Base tier validation
 [base_tier_validation_forward](base_tier_validation_forward/) | 15.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Forward option for base tiers
 [base_tier_validation_report](base_tier_validation_report/) | 15.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Reports related to tier validation
 [base_tier_validation_server_action](base_tier_validation_server_action/) | 15.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add option to call server action when a tier is validated
 [base_user_locale](base_user_locale/) | 15.0.1.1.0 |  | User Locale Settings
+[base_warn_option](base_warn_option/) | 15.0.1.0.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Add Options to Warn Messages
 [chained_swapper](chained_swapper/) | 15.0.1.0.4 |  | Chained Swapper
 [date_range](date_range/) | 15.0.1.1.1 | [![lmignon](https://github.com/lmignon.png?size=30px)](https://github.com/lmignon) | Manage all kind of date range
 [default_multi_user](default_multi_user/) | 15.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Allows to share user-defined defaults among several users.
